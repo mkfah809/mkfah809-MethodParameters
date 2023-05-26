@@ -28,4 +28,6 @@ public class Lab {
     public String copy(String text){
         return "polly";
     }
+
+    
 }
